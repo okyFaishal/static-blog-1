@@ -23,6 +23,6 @@ Mata kuliah pada hari ini, diawali dengan **Algoritma dan Pemrograman**. Dikaren
 --------------------------------------------------------
 
 ### 2.Mata Kuliah Kedua
-Mata pelajaran kuliah kedua yakni Teknologi dan Informasi, kami hari ini diberitahu beberapa tugas, seperti tugas saat *Mid Semester dan Akhir Semester* disuruh buat apa?
+Mata pelajaran kuliah kedua yakni **Teknologi dan Informasi**, kami hari ini diberitahu beberapa tugas, seperti tugas saat *Mid Semester dan Akhir Semester* disuruh buat apa?
 
-Bay the way, website yang ini adalah salah 1 tugas yang diberikan untuk Mid Semester
+Bay the way, website yang ini adalah salah 1 tugas yang diberikan untuk *Mid Semester*
