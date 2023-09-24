@@ -1,6 +1,6 @@
 ---
 author: Ardhan Kurniawan
-date: 2023-09-25
+date: 2023-09-24
 title: Hello Selasa
 image: selasa/foto_zoom.webp
 ---
@@ -17,10 +17,10 @@ Mata kuliah pada hari ini, diawali dengan **Algoritma dan Pemrograman**. Dikaren
 
 ![foto zoom](/images/selasa/foto_zoom.webp "foto zoom")
 
-#### Foto tempat online zoom
-![cafe awan USM](/images/selasa/sunset_cafe_awan.webp "cafe awan USM")
+#### Tugas Alprog kuis 2
+![kuis alprog](/images/selasa/kuis_alprog.webp "kuis alprog")
 
-------------------------------------------------
+--------------------------------------------------------
 
 ### 2.Mata Kuliah Kedua
 Mata pelajaran kuliah kedua yakni Teknologi dan Informasi, kami hari ini diberitahu beberapa tugas, seperti tugas saat *Mid Semester dan Akhir Semester* disuruh buat apa?
