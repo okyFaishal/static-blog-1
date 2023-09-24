@@ -10,5 +10,4 @@ Hello There 🤗, My name Ardhan Kurniawan. I was born in Semarang, Indonesia. I
 
 Right now, i was study at Universitas Semarang.
 
-![me and the boys](/images/sabtu/listen_music.webp)
-dwdclear
+![me and the boys](/images/me&boys.webp)
