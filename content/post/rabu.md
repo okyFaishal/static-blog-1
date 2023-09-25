@@ -1,6 +1,6 @@
 ---
 author: Ardhan Kurniawan
-date: 2023-09-24
+date: 2023-09-20
 title: Rabu cuy
 image: rabu/gor_usm2.webp
 ---

@@ -1,6 +1,6 @@
 ---
 author: Ardhan Kurniawan
-date: 2023-09-24
+date: 2023-09-18
 title: Kegiatan Pada Hari Senin
 image: senin/english.webp
 ---

@@ -1,6 +1,6 @@
 ---
 author: Ardhan Kurniawan
-date: 2023-09-24
+date: 2023-09-23
 title: Hari Sabtu
 image: sabtu/mie_instant.webp
 ---

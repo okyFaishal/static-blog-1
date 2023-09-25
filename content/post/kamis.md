@@ -1,6 +1,6 @@
 ---
 author: Ardhan Kurniawan
-date: 2023-09-24
+date: 2023-09-21
 title: Kamis Ceria
 image: kamis/logika_mat.webp
 ---

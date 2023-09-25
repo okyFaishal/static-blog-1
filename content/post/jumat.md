@@ -1,6 +1,6 @@
 ---
 author: Ardhan Kurniawan
-date: 2023-09-24
+date: 2023-09-22
 title: Jumat Berkah
 image: jumat/cls_website2.webp
 ---

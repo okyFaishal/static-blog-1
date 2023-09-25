@@ -1,6 +1,6 @@
 ---
 author: Ardhan Kurniawan
-date: 2023-09-24
+date: 2023-09-19
 title: Hello Selasa
 image: selasa/foto_zoom.webp
 ---
