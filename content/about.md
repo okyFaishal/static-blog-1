@@ -10,4 +10,8 @@ Hello There 🤗, My name Ardhan Kurniawan. I was born in Semarang, Indonesia. I
 
 Right now, i was study at Universitas Semarang.
 
+Name    : Ardhan Kurniawan
+NIM     : G.231.23.0003
+Field   : Teknik Informatika
+
 ![me and the boys](/images/me&boys.webp)
